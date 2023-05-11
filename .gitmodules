@@ -1,3 +1,4 @@
 [submodule "API"]
 	path = API
 	url = https://github.com/SV-PracticasPresenciales-2/API
+	branch = develop
