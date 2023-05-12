@@ -10,3 +10,7 @@
 	path = AndroidApp
 	url = https://github.com/SV-PracticasPresenciales-2/AndroidApp
 	branch = develop
+[submodule "WebApp"]
+	path = WebApp
+	url = https://github.com/SV-PracticasPresenciales-2/WebApp
+	branch = develop
