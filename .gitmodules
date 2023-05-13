@@ -14,3 +14,7 @@
 	path = WebApp
 	url = https://github.com/SV-PracticasPresenciales-2/WebApp
 	branch = master
+[submodule "JavaFx"]
+	path = JavaFx
+	url = https://github.com/SV-PracticasPresenciales-2/ReactiveJavaFx
+	branch = master
