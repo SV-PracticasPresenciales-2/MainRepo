@@ -1,16 +1,16 @@
 [submodule "API"]
 	path = API
 	url = https://github.com/SV-PracticasPresenciales-2/API
-	branch = master
+	branch = develop
 [submodule "docs"]
 	path = docs
 	url = https://github.com/SV-PracticasPresenciales-2/docs
-	branch = master
+	branch = develop
 [submodule "AndroidApp"]
 	path = AndroidApp
 	url = https://github.com/SV-PracticasPresenciales-2/AndroidApp
-	branch = master
+	branch = develop
 [submodule "WebApp"]
 	path = WebApp
 	url = https://github.com/SV-PracticasPresenciales-2/WebApp
-	branch = master
+	branch = develop
